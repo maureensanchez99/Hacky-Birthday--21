@@ -1,6 +1,11 @@
 @import url('https://fonts.googleapis.com/css2?family=Happy+Monkey&family=Raleway&display=swap');
 
 body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    width: 100%;
+    
     background-color: #8AC8E8 ;
     font-family: 'Happy Monkey', 'Raleway';
 
@@ -22,4 +27,8 @@ header {
 	width: 500px;
 	height: 375px;
 	background-color: #666;
+}
+
+center {
+    align-items: center;
 }
