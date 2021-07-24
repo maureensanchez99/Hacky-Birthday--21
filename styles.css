@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Happy+Monkey&family=Raleway&display=swap');
+
+body {
+    background-color: #8AC8E8 ;
+    font-family: 'Happy Monkey', 'Raleway';
+
+    text-align: center;
+}
+
+header {
+    padding: 10px;
+}
+
+#container {
+    margin: px;
+    width: 500px;
+    height: 375px;
+    border: 10px #333 solid;
+}
+
+#videoElement {
+	width: 500px;
+	height: 375px;
+	background-color: #666;
+}
