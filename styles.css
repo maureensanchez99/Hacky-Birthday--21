@@ -1,15 +1,19 @@
 @import url('https://fonts.googleapis.com/css2?family=Happy+Monkey&family=Raleway&display=swap');
 
-body {
+html {
     margin: 0;
     padding: 0;
     height: 100%;
     width: 100%;
     
-    background-color: #8AC8E8 ;
+    background: linear-gradient(116.82deg, #EB5160 0%, rgba(46, 76, 103, 0.8) 51.21%, #F7BC36 100%);
     font-family: 'Happy Monkey', 'Raleway';
 
     text-align: center;
+}
+
+h1 {
+    color: #F7BC36;
 }
 
 header {
@@ -29,6 +33,7 @@ header {
 	background-color: #666;
 }
 
-center {
-    align-items: center;
+
+#camera-button {
+    color: #B7999C;
 }
